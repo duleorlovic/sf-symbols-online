@@ -1,6 +1,6 @@
 # sf-symbols-online
 
-This table is for GitHub's light mode. For dark mode visit [README.md](./README_dark.md).
+This table is for GitHub's light mode. For dark mode visit [README_dark.md](./README_dark.md).
 
 <!--prettier-ignore-start-->
 | Glyph | Name | Glyph | Name | Glyph | Name | Glyph | Name |
