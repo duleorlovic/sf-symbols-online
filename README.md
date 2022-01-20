@@ -1,3 +1,8 @@
+# sf-symbols-online
+
+This table is for GitHub's light mode. For dark mode visit [README.md](./README_dark.md).
+
+<!--prettier-ignore-start-->
 | Glyph | Name | Glyph | Name | Glyph | Name | Glyph | Name |
 |----|-------|----|-------|----|-------|----|-------|
 | <img alt='square.and.arrow.up' src='glyphs/square.and.arrow.up.png'> | square.and.arrow.up | <img alt='square.and.arrow.up.fill' src='glyphs/square.and.arrow.up.fill.png'> | square.and.arrow.up.fill | <img alt='square.and.arrow.down' src='glyphs/square.and.arrow.down.png'> | square.and.arrow.down | <img alt='square.and.arrow.down.fill' src='glyphs/square.and.arrow.down.fill.png'> | square.and.arrow.down.fill | <img alt='square.and.arrow.up.on.square' src='glyphs/square.and.arrow.up.on.square.png'> | square.and.arrow.up.on.square |
@@ -418,3 +423,4 @@
 | <img alt='45.square.fill' src='glyphs/45.square.fill.png'> | 45.square.fill | <img alt='46.square' src='glyphs/46.square.png'> | 46.square | <img alt='46.square.fill' src='glyphs/46.square.fill.png'> | 46.square.fill | <img alt='47.square' src='glyphs/47.square.png'> | 47.square |
 | <img alt='47.square.fill' src='glyphs/47.square.fill.png'> | 47.square.fill | <img alt='48.square' src='glyphs/48.square.png'> | 48.square | <img alt='48.square.fill' src='glyphs/48.square.fill.png'> | 48.square.fill | <img alt='49.square' src='glyphs/49.square.png'> | 49.square |
 | <img alt='49.square.fill' src='glyphs/49.square.fill.png'> | 49.square.fill | <img alt='50.square' src='glyphs/50.square.png'> | 50.square | <img alt='50.square.fill' src='glyphs/50.square.fill.png'> | 50.square.fill |
+<!--prettier-ignore-end-->
